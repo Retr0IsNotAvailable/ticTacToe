@@ -1,0 +1,14 @@
+header {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  justify-content: center;
+  padding: 2rem 0;
+}
+
+header h1 {
+  font-size: 3rem;
+  color: #ffff00;
+  border-bottom: 2px solid #ffff00;
+}
